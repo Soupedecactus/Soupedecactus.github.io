@@ -1,0 +1,57 @@
+.header {
+    height: 90px;
+    margin: 0;
+    background : url('img/bandeau.png') repeat-x;
+}
+
+
+
+
+p {
+    color:rgb(0, 0, 0);
+    font-size: 37px;
+    font-family: Arial;
+}
+
+
+
+    body {
+        background-color: white;
+    }
+    
+    button {
+        margin: auto;
+        display: block;
+    }
+
+.button {
+    background-color: rgb(196, 172, 67);
+    border: none;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    margin: 200px 200px;
+    border-radius: 1rem;
+
+
+}
+
+
+.logo{
+
+float: left;
+position: absolute;
+top: 20px;
+left: 23px;
+ 
+}
+.Matteo {
+    float: left;
+    position: absolute;
+    top: 24px;
+    left: 10rem;
+    size: 5px;
+}
